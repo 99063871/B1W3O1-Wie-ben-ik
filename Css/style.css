@@ -1,0 +1,71 @@
+body{background-color:#33ccff;
+	max-width:1200px;
+}
+
+h2{
+	font-size:30px;
+}
+
+p{
+	font-size:20px;
+}
+
+img{width:100px;
+}
+
+.link{
+	font-size:25px;
+	 margin-left: 0px; margin-right: 250px;
+    margin-top: 0px; margin-bottom: 20px; 
+    float:left;
+}
+
+.links{
+	font-size:25px;
+	 margin-left: 0px; margin-right: 100px;
+    margin-top: 0px; margin-bottom: 20px; 
+    float:left;
+}
+
+.link2{
+	font-size:25px;
+	 margin-left: 0px; margin-right: 450px;
+    margin-top: 0px; margin-bottom: 20px; 
+    float:left;
+}
+
+.link3{
+	font-size:25px;
+	 margin-left: 0px; margin-right: 200px;
+    margin-top: 0px; margin-bottom: 20px; 
+    float:left;
+}
+
+.me{
+	width:200px;
+	float:left;
+}
+
+
+.mtb{
+	width:250px;
+	float:right;
+}
+
+.focus{
+	width:500px;
+	float:right;
+}
+
+.nyp{
+	width:500px;
+	float:right;
+}
+
+.bullet{width:400px;
+float:right;
+}
+
+.dani{width:400px;
+float:right;
+}
